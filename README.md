@@ -56,7 +56,7 @@ The dataset contains COVID-19 statistics collected from multiple countries betwe
 
 ## 📊 Dashboard Visualizations
 
-The generated dashboard (`covid_dashboard.png`) includes:
+The generated dashboard (`covid_visualization.png`) includes:
 
 | Visualization | Purpose |
 |--------------|---------|
@@ -131,7 +131,7 @@ pip install pandas numpy matplotlib seaborn
 Execute the script:
 
 ```bash
-python covid_dashboard.py
+python covid_visualization.py
 ```
 
 The script will automatically:
@@ -140,7 +140,7 @@ The script will automatically:
 2. Perform statistical analysis.
 3. Generate visualizations.
 4. Create the dashboard.
-5. Save the output image as `covid_dashboard.png`.
+5. Save the output image as `covid_visualization.png`.
 
 
 ## 📁 Project Structure
@@ -148,9 +148,9 @@ The script will automatically:
 ```text
 COVID19_Dashboard/
 │
-├── covid_dashboard.py
+├── covid_visualization.py
 ├── covid_data.csv
-├── covid_dashboard.png
+├── covid_visualization.png
 └── README.md
 ```
 
@@ -197,7 +197,5 @@ GitHub: https://github.com/Susmitha35-git
 ## 📄 License
 
 This project is intended for educational and internship purposes.
-
----
 
 ⭐ If you found this project useful, consider giving it a star.
