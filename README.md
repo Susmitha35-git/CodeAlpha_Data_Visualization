@@ -1,6 +1,6 @@
 # 🦠 COVID-19 Global Data Analysis Dashboard (2020–2023)
 
-### CodeAlpha Data Analytics Internship – Dashboard Project
+### CodeAlpha Data Analytics Internship – Task 3
 
 This project presents a comprehensive analysis of global COVID-19 trends between 2020 and 2023 using Python-based data visualization techniques. The dashboard explores case counts, death statistics, vaccination progress, fatality rates, and regional impacts across major countries affected by the pandemic.
 
@@ -160,7 +160,7 @@ COVID19_Dashboard/
 <h2>🦠 COVID-19 Global Dashboard</h2>
 
 <p align="center">
-  <img src="covid_dashboard.png" alt="COVID-19 Dashboard" width="100%">
+  <img src="covid_visualization.png" alt="COVID-19 Dashboard" width="100%">
 </p>
 
 
